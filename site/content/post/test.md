@@ -2,6 +2,7 @@
 title: test
 date: 2023-01-05T23:20:58.604Z
 description: test
+image: img/about-direct-sourcing.jpg
 ---
 t﻿est
 
